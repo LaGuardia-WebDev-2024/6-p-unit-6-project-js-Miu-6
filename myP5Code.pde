@@ -12,9 +12,33 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
+  //face
+  fill (80, 80, 200, 150);
+  rect (150, 100, 200, 100, 100);
   
+  //body
+  fill (200, 50, 50, 300);
+  ellipse (200, 200, 250, 350);
+  
+  //leg 
+  fill (200, 50, 50, 300);
+  rect (200, 300, 80, 100, 200); 
+  
+  //leg
+  fill (200, 50, 50, 300);
+  rect (100, 300, 80, 100, 200);
+ 
+ 
+ 
+  
+  triangle (30, 300, 30, 100, 200, 50, 100); //backpack
 
+   
+  //face
+  fill (80, 80, 200, 150);
+  rect (150, 100, 200, 100, 100);
+  
+ 
 }
 
 //🟡Extra FUN Features Ms. Hall Added
